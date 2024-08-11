@@ -11,7 +11,7 @@
 /database.rules.json
 /storage.rules
 /.firebaserc
-/app/firebase/
+/src/lib/firebase/firebaseConfig.tsx
 /.github
 
 # testing
